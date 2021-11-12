@@ -1,0 +1,23 @@
+*{
+	margin:0;
+	padding:0;
+}
+h3{
+	text-align:center;
+}
+div{
+
+}
+#first,#second,#third{
+	box-sizing:border-box;
+	width:33.33%;
+	float:right;
+	border:1px solid black;
+    margin-right:5px;
+	
+}
+#firstsub1,#secondsub1,#thirdsub1{
+	width:45px;
+	height:15px;
+}
+	
